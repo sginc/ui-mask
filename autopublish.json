@@ -1,0 +1,8 @@
+{
+  "version": "1.4.7",
+  "upstream": {
+    "git": "https://github.com/angular-ui/ui-mask.git",
+    "release": "1.4.7",
+    "versionFile": "bower.json"
+  }
+}
